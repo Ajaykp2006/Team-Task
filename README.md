@@ -1,6 +1,5 @@
 # 📝 Collaborative Team Task Board (Glassmorphism UI)
 
-[Live Demo]([https://todo-team-task.netlify.app](https://todo-team-task.netlify.app/)) <br><>br
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -10,7 +9,7 @@ A sleek, responsive, and interactive team task management board built with pure 
 
 ## 📸 Preview
 
-![Task Board Screenshot]![Uploading Screenshot 2026-07-19 020645.png…]()
+[Live Demo](https://todo-team-task.netlify.app/)
 
 
 
