@@ -9,7 +9,7 @@ A sleek, responsive, and interactive team task management board built with pure 
 
 ## 📸 Preview
 
-[Live Demo](https://todo-team-task.netlify.app/)
+[Live Demo][https://todo-team-task.netlify.app](https://todo-team-task.netlify.app/)
 
 
 
