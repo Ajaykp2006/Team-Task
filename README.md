@@ -46,3 +46,4 @@ Following the Separation of Concerns principle, the project is cleanly divided:
 ├── 🎨 style.css     # Glassmorphism, animations, and custom styling
 ├── ⚙️ script.js     # DOM manipulation and application logic
 └── 📖 README.md     # Project documentation
+└── 📖 PROMPT.md     # AI  uses in project's
